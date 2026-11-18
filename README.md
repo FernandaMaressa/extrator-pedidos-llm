@@ -1,1 +1,1 @@
-# resumidor-de-mensagem-llm
+# extrator-pedidos-llm
